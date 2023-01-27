@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscadorCep/static/css/main.a240c550.css",
+    "main.js": "/BuscadorCep/static/js/main.b35758b9.js",
+    "index.html": "/BuscadorCep/index.html",
+    "main.a240c550.css.map": "/BuscadorCep/static/css/main.a240c550.css.map",
+    "main.b35758b9.js.map": "/BuscadorCep/static/js/main.b35758b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.b35758b9.js"
+  ]
+}
