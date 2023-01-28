@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BuscadorCep/static/css/main.7826e8af.css",
-    "main.js": "/BuscadorCep/static/js/main.af2b3d0c.js",
+    "main.js": "/BuscadorCep/static/js/main.bbcc9b69.js",
     "static/media/PurpleFundo.jpg": "/BuscadorCep/static/media/PurpleFundo.ad63c7757ba79760ef57.jpg",
     "index.html": "/BuscadorCep/index.html",
     "main.7826e8af.css.map": "/BuscadorCep/static/css/main.7826e8af.css.map",
-    "main.af2b3d0c.js.map": "/BuscadorCep/static/js/main.af2b3d0c.js.map"
+    "main.bbcc9b69.js.map": "/BuscadorCep/static/js/main.bbcc9b69.js.map"
   },
   "entrypoints": [
     "static/css/main.7826e8af.css",
-    "static/js/main.af2b3d0c.js"
+    "static/js/main.bbcc9b69.js"
   ]
 }
